@@ -4,7 +4,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
   <p align="center">
-  <img alt="pokedex" src="./img/pokedex1.png" width="10px" height="40px" >
+  <img alt="pokedex" src="./img/pokedex1.png" width="20%" height="40%" >
 </p>
 
 ## 🚀 Tecnologias
